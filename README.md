@@ -9,7 +9,7 @@ Examples for automating **Azure Sentinel** deployment and configuration.
 
 ### /alertrules (coming up later) ### 
 
-- There are plenty of rules for incident response & threat hunting already in the public domain - my idea is mainly to write "self-monitoring" Alert Rules that insure Sentinel & log data confidentiality, integrity and availability.
+- There are plenty of public domain Alert Rules and Hunting Queries for incident response & hunting - my idea is mainly to write "self-monitoring" rules that insure Sentinel & log data confidentiality, integrity and availability.
 
 ---
 
