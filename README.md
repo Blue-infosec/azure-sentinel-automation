@@ -15,4 +15,4 @@ Examples for automating **Azure Sentinel** deployment and configuration.
 
 **Disclaimers:**
 - This is a personal collection. If you decide to use any of this, please review it well. 
-- Everything is built and tested on my personal Azure tenant.
+- Everything is built and tested on my personal Azure tenant, using only things available in Azure Cloud Shell.
